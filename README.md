@@ -28,9 +28,9 @@ Everyone's time should be valuable, so please consider donating.
 ## Installation
 
 ```bash
-npm install ajax-client
+npm install ajaxclientjs
 # or
-yarn add ajax-client
+yarn add ajaxclientjs
 ```
 
 For direct browser usage, include the script:
