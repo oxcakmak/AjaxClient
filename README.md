@@ -215,5 +215,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- 📧 Email: support@ajax-client.com
+- 📧 Email: info@oxcakmak.com
 - 💬 Issues: [GitHub Issues](https://github.com/oxcakmak/AjaxClient/issues)
