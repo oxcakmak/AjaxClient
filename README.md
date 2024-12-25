@@ -36,7 +36,7 @@ yarn add ajax-client
 For direct browser usage, include the script:
 
 ```html
-<script src="dist/ajax-client.min.js"></script>
+<script src="dist/AjaxClient.js"></script>
 ```
 
 ## Quick Start
